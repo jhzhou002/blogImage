@@ -1,0 +1,72 @@
+[0728/085111.869:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A4D6B400 first-paint 670.915
+[0728/085112.066:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A4D6B400 first-contentful-paint 870.03
+[0728/085112.067:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A4D6B400 largest-contentful-paint 870.029
+[0728/085112.382:WARNING:WebViewImpl.cpp(184)] StartBlankCheck 00000235A4D6B400 ms8000 fcp870.03
+[0728/085112.762:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A4D6B400 largest-contentful-paint 1455.15
+[0728/085117.771:WARNING:WebViewImpl.cpp(174)] NotifyPerformance 00000235A4D6B400 fcp870.03
+[0728/085130.417:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AA720 first-paint 10728.5
+[0728/085130.637:WARNING:WebViewImpl.cpp(184)] StartBlankCheck 00000235A68AA720 ms8000 fcp0
+[0728/085132.018:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AA720 first-contentful-paint 12331.9
+[0728/085132.018:WARNING:WebViewImpl.cpp(155)] On GetFCP00000235A68AA720 fcp12331.9
+[0728/085132.019:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AA720 largest-contentful-paint 12331.9
+[0728/085132.109:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AA720 largest-contentful-paint 12399.7
+[0728/085137.110:WARNING:WebViewImpl.cpp(174)] NotifyPerformance 00000235A68AA720 fcp12331.9
+[0728/092003.233:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AAAB0 first-paint 749.61
+[0728/092003.233:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AAAB0 first-contentful-paint 749.61
+[0728/092003.233:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AAAB0 largest-contentful-paint 749.61
+[0728/092003.451:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AAAB0 largest-contentful-paint 954.22
+[0728/092003.860:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AAAB0 largest-contentful-paint 1330.26
+[0728/092004.455:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AAAB0 largest-contentful-paint 1900.11
+[0728/092004.776:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AAAB0 first-paint 563.135
+[0728/092004.777:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AAAB0 first-contentful-paint 655.23
+[0728/092004.989:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AAAB0 largest-contentful-paint 911.519
+[0728/092006.589:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AAAB0 first-paint 644.67
+[0728/092006.590:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AAAB0 first-contentful-paint 644.67
+[0728/092006.590:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AAAB0 largest-contentful-paint 644.67
+[0728/092006.665:WARNING:WebViewImpl.cpp(184)] StartBlankCheck 00000235A68AAAB0 ms8000 fcp644.67
+[0728/092006.683:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AAAB0 largest-contentful-paint 804.605
+[0728/092007.564:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AAAB0 largest-contentful-paint 1690.22
+[0728/092011.210:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A671DEC0 first-paint 889.52
+[0728/092011.210:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A671DEC0 first-contentful-paint 889.52
+[0728/092011.236:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A671DEC0 largest-contentful-paint 945.304
+[0728/092011.931:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A671DEC0 largest-contentful-paint 1641.23
+[0728/092012.457:WARNING:WebViewImpl.cpp(184)] StartBlankCheck 00000235A671DEC0 ms8000 fcp889.52
+[0728/092012.565:WARNING:WebViewImpl.cpp(174)] NotifyPerformance 00000235A68AAAB0 fcp644.67
+[0728/092016.932:WARNING:WebViewImpl.cpp(174)] NotifyPerformance 00000235A671DEC0 fcp889.52
+[0728/092055.859:ERROR:cursor_loader.cc(103)] Failed to load a platform cursor of type CursorType::kGrab
+[0728/092126.084:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A9C70 first-paint 473.08
+[0728/092126.249:WARNING:WebViewImpl.cpp(184)] StartBlankCheck 00000235A68A9C70 ms8000 fcp0
+[0728/092127.057:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A9C70 first-contentful-paint 1458.68
+[0728/092127.057:WARNING:WebViewImpl.cpp(155)] On GetFCP00000235A68A9C70 fcp1458.68
+[0728/092127.097:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A9C70 largest-contentful-paint 1496.03
+[0728/092132.105:WARNING:WebViewImpl.cpp(174)] NotifyPerformance 00000235A68A9C70 fcp1458.68
+[0728/092138.890:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A9ED0 first-paint 528.18
+[0728/092138.890:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A9ED0 first-contentful-paint 528.18
+[0728/092138.890:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A9ED0 largest-contentful-paint 528.18
+[0728/092138.949:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A9ED0 largest-contentful-paint 594.03
+[0728/092139.244:WARNING:WebViewImpl.cpp(184)] StartBlankCheck 00000235A68A9ED0 ms8000 fcp528.18
+[0728/092139.603:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A9ED0 largest-contentful-paint 1277.46
+[0728/092144.614:WARNING:WebViewImpl.cpp(174)] NotifyPerformance 00000235A68A9ED0 fcp528.18
+[0728/092246.805:WARNING:WebViewImpl.cpp(184)] StartBlankCheck 00000235A4D6B660 ms8000 fcp0
+[0728/092246.944:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A4D6B660 first-contentful-paint 7.525
+[0728/092246.945:WARNING:WebViewImpl.cpp(155)] On GetFCP00000235A4D6B660 fcp7.525
+[0728/092246.945:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A4D6B660 largest-contentful-paint 7.525
+[0728/092248.202:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A4D6B660 largest-contentful-paint 1243.8
+[0728/092250.450:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AABE0 first-paint 622.855
+[0728/092253.215:WARNING:WebViewImpl.cpp(174)] NotifyPerformance 00000235A4D6B660 fcp7.525
+[0728/092255.132:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A98E0 first-paint 2084.65
+[0728/092255.292:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A98E0 first-contentful-paint 2294.48
+[0728/092255.292:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A98E0 largest-contentful-paint 2294.47
+[0728/092256.264:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A98E0 largest-contentful-paint 3211.24
+[0728/092257.283:WARNING:WebViewImpl.cpp(184)] StartBlankCheck 00000235A68A98E0 ms8000 fcp2294.48
+[0728/092259.184:WARNING:WebViewImpl.cpp(184)] StartBlankCheck 00000235A68AABE0 ms8000 fcp0
+[0728/092259.451:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AABE0 first-contentful-paint 12.59
+[0728/092259.451:WARNING:WebViewImpl.cpp(155)] On GetFCP00000235A68AABE0 fcp12.59
+[0728/092259.451:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AABE0 largest-contentful-paint 12.59
+[0728/092300.401:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68AABE0 largest-contentful-paint 1111.57
+[0728/092301.268:WARNING:WebViewImpl.cpp(174)] NotifyPerformance 00000235A68A98E0 fcp2294.48
+[0728/092325.368:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A9680 first-paint 419.75
+[0728/092326.299:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A9680 first-contentful-paint 1205.98
+[0728/092326.463:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A9680 largest-contentful-paint 1285.25
+[0728/092326.667:WARNING:WebViewImpl.cpp(131)] OnPerformance 00000235A68A9680 largest-contentful-paint 1690.6
+[0728/092327.066:WARNING:WebViewImpl.cpp(184)] StartBlankCheck 00000235A68A9680 ms8000 fcp1205.98
